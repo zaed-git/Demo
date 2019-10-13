@@ -1,0 +1,11 @@
+# Fresh laravel install (composer create-project laravel/laravel projectName
+# npm install
+# npm run dev
+# now react install -------
+
+# composer require laravel/ui --dev (package for auth)
+
+# php artisan ui react
+
+// Generate login / registration scaffolding...
+# php artisan ui react --auth
